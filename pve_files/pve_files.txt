@@ -1,7 +1,4 @@
 Umbreon (F)
-OT: C18
-TID: 207721
-SID: 330
 IVs: 0 Atk
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Synchronize
