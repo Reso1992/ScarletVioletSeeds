@@ -13,7 +13,6 @@ Jolly Nature
 ;
 
 Vivillon-Fancy (F) @ Dream Ball
-OTGender: Male
 Language: Spanish
 Ability: Friend Guard
 Tera Type: Flying
