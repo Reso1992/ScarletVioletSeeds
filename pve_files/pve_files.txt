@@ -13,9 +13,6 @@ Jolly Nature
 ;
 
 Vivillon-Fancy (F) @ Dream Ball
-OT: Roberto
-TID: 759679
-SID: 2280
 OTGender: Male
 Language: Spanish
 Ability: Friend Guard
