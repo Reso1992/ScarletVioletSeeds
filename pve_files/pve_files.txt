@@ -28,7 +28,7 @@ Timid Nature
 
 Umbreon (F)
 IVs: 0 Atk
-EVs: 252 HP / 4 Def / 252 SpD
+EVs: 250 HP / 40 Def / 250 SpD
 Ability: Synchronize
 Tera Type: Dark
 Ball: Luxury Ball
