@@ -9,9 +9,7 @@ Jolly Nature
 - Growl
 - Helping Hand
 - Covet
-
-;
-
+---
 Vivillon-Fancy (F) @ Dream Ball
 Language: Spanish
 Ability: Friend Guard
@@ -23,9 +21,7 @@ Timid Nature
 - Safeguard
 - Bug Buzz
 - Supersonic
-
-;
-
+---
 Umbreon (F)
 IVs: 0 Atk
 EVs: 250 HP / 40 Def / 250 SpD
@@ -37,3 +33,4 @@ Jolly Nature
 - Growl
 - Helping Hand
 - Covet
+---
