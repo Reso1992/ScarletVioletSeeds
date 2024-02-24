@@ -1,0 +1,252 @@
+Victreebel (M) @ Lum Berry
+Shiny: Yes
+Ball: Nest Ball
+EVs: 252 Atk / 252 Spe / 6 Def
+Nature: Adamant
+Tera Type: Grass
+Ability: Chlorophyll
+Swords Dance
+Strength Sap
+Power Whip
+Poison Jab
+---
+Furret (F) @ Choice Scarf
+Shiny: Yes
+Ball: Love Ball
+EVs: 252 Atk / 252 Spe / 6 SpD
+Nature: Jolly
+Tera Type: Fighting
+Ability: Frisk
+Trick
+Double-Edge
+U-turn
+Knock Off
+---
+Dipplin (M) @ Eviolite
+Shiny: Yes
+Ball: Level Ball
+EVs: 236 SpD / 196 HP / 76 SpA
+Nature: Modest
+Tera Type: Steel
+Ability: Sticky Hold
+Syrup Bomb
+Energy Ball
+Dragon Pulse
+Recover
+---
+Ninetales (F) @ Heat Rock
+Shiny: Yes
+Ball: Premier Ball
+EVs: 238 SpA / 252 Spe / 20 HP
+Nature: Timid
+Tera Type: Fire
+Ability: Drought
+Flamethrower
+Solar Beam
+Scorching Sands
+Nasty Plot
+---
+Poliwrath (M) @ Salac Berry
+Shiny: Yes
+Ball: Nest Ball
+EVs: 246 Atk / 252 Spe / 12 HP
+Nature: Jolly
+Tera Type: Grass
+Ability: Water Absorb
+Belly Drum
+Drain Punch
+Waterfall
+Substitute
+---
+Politoed (M) @ Sitrus Berry
+Shiny: Yes
+Ball: Lure Ball
+EVs: 252 HP / 100 Def / 158 SpD
+Nature: Calm
+Tera Type: Grass
+Ability: Drizzle
+Chilling Water
+Perish Song
+Helping Hand
+Protect
+---
+$bt
+Noctowl (F) @ Blunder Policy
+Shiny: Yes
+Ball: Level Ball
+EVs: 252 SpA / 252 Spe / 6 Def
+Nature: Modest
+Tera Type: Steel
+Ability: Tinted Lens
+Hurricane
+Hypnosis
+Roost
+Nasty Plot
+---
+Piloswine (M) @ Eviolite
+Shiny: Yes
+Ball: Level Ball
+EVs: 252 HP / 252 Atk / 6 SpD
+Nature: Adamant
+Tera Type: Ghost
+Ability: Thick Fat
+Earthquake
+Icicle Crash
+Ice Shard
+Stealth Rock
+---
+Mamoswine (M) @ Life Orb
+Shiny: Yes
+Ball: Nest Ball
+EVs: 252 Atk / 252 Spe / 6 SpD
+Nature: Adamant
+Tera Type: Grass
+Ability: Thick Fat
+Earthquake
+Icicle Crash
+Ice Shard
+Trailblaze
+---
+Shiftry (M) @ Life Orb
+Shiny: Yes
+Ball: Friend Ball
+EVs: 252 Atk / 252 Spe / 6 Def
+Nature: Adamant
+Tera Type: Dark
+Ability: Chlorophyll
+Solar Blade
+Knock Off
+Sucker Punch
+Swords Dance
+---
+Trevenant (M) @ Sitrus Berry
+Shiny: Yes
+Ball: Premier Ball
+EVs: 252 HP / 252 Def / 6 SpD
+Nature: Impish
+Tera Type: Normal
+Ability: Harvest
+Poltergeist
+Horn Leech
+Leech Seed
+Curse
+---
+Sinistcha @ Assault Vest
+Shiny: Yes
+Ball: Nest Ball
+EVs: 252 HP / 252 SpA / 6 Spe
+Nature: Modest
+Tera Type: Steel
+Ability: Heatproof
+Matcha Gotcha
+Scald
+Hex
+Tera Blast
+---
+Golem (M) @ Weakness Policy
+Shiny: Yes
+Ball: Level Ball
+EVs: 252 Atk / 252 Spe / 6 Def
+Nature: Adamant
+Tera Type: Ground
+Ability: Sturdy
+Earthquake
+Stealth Rock
+Explosion
+Stone Edge
+---
+Conkeldurr (M) @ Assault Vest
+Shiny: Yes
+Ball: Repeat Ball
+EVs: 252 HP / 252 Atk / 6 SpD
+Nature: Adamant
+Tera Type: Steel
+Ability: Iron Fist
+Mach Punch
+Drain Punch
+Ice Punch
+Knock Off
+---
+Morpeko (M) @ Life Orb
+Shiny: Yes
+Ball: Timer Ball
+EVs: 252 Atk / 252 Spe / 6 SpD
+Nature: Jolly
+Tera Type: Poison
+Ability: Hunger Switch
+Aura Wheel
+Psychic Fangs
+Seed Bomb
+Protect
+---
+Munchlax (M) @ Eviolite
+Shiny: Yes
+Ball: Dive Ball
+EVs: 236 Atk / 236 SpD / 36 Def
+Nature: Impish
+Tera Type: Ghost
+Ability: Thick Fat
+Body Slam
+Earthquake
+Rest
+Sleep Talk
+---
+Snorlax (M) @ Leftovers
+Shiny: Yes
+Ball: Heavy Ball
+EVs: 252 Def / 252 SpD / 6 HP
+Nature: Impish
+Tera Type: Normal
+Ability: Thick Fat
+Curse
+Body Slam
+Earthquake
+Rest
+---
+Nosepass (M) @ Berry Juice
+Shiny: Yes
+Ball: Level Ball
+EVs: 236 Def / 196 SpD / 76 Atk
+Nature: Relaxed
+Tera Type: Ghost
+Ability: Sturdy
+Stealth Rock
+Rock Blast
+Thunder Wave
+Volt Switch
+---
+Ludicolo (M) @ Focus Sash
+Shiny: Yes
+Ball: Nest Ball
+EVs: 252 SpA / 252 Spe / 6 SpD
+Nature: Modest
+Tera Type: Water
+Ability: Swift Swim
+Energy Ball
+Hydro Pump
+Ice Beam
+Knock Off
+---
+Probopass (M) @ Leftovers
+Shiny: Yes
+Ball: Level Ball
+EVs: 172 HP / 252 SpA / 86 Spe
+Nature: Modest
+Tera Type: Ghost
+Ability: Magnet Pull
+Stealth Rock
+Smack Down
+Earth Power
+Volt Switch
+---
+Vikavolt (M) @ Sitrus Berry
+Shiny: Yes
+Ball: Premier Ball
+EVs: 252 HP / 252 SpA / 6 Def
+Nature: Modest
+Tera Type: Steel
+Ability: Levitate
+Bug Buzz
+Thunderbolt
+Sticky Web
+Volt Switch
